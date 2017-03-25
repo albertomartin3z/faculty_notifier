@@ -1,0 +1,6 @@
+min_items_per_email: 1
+max_items_per_email: 8
+email_sender: my@email.com
+email_password: mypassword
+smtp_server: smtp.gmail.com
+smtp_port: 587
